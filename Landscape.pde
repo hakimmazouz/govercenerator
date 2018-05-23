@@ -1,0 +1,5 @@
+class Landscape {
+  void constructor() {
+  
+  }
+}
